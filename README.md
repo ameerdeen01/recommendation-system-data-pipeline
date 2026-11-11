@@ -7,7 +7,7 @@
 **Course:** Data Management for Machine Learning  
 **Course Code:** AIMLZG529  
 **Semester:** S1-26  
-**GitHub:** https://github.com/ameerdeen01
+**GitHub:** https://github.com/ameerdeen01/recommendation-system-data-pipeline
 
 ---
 
