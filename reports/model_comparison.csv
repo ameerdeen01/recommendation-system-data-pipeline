@@ -1,0 +1,3 @@
+Model,Evaluated_Interactions,MAE,RMSE
+Popularity,20000,0.8439,1.0392
+Collaborative Filtering,20000,0.9202,1.1017

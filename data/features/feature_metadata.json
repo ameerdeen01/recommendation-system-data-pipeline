@@ -1,0 +1,47 @@
+{
+    "user_features": {
+        "file": "user_features_scaled.csv",
+        "description": "User demographic and activity features",
+        "features": [
+            "user_id",
+            "age",
+            "gender",
+            "occupation",
+            "zip_code",
+            "activity_count",
+            "average_rating",
+            "age_scaled",
+            "activity_count_scaled",
+            "average_rating_scaled"
+        ]
+    },
+    "movie_features": {
+        "file": "movie_features_scaled.csv",
+        "description": "Movie metadata, genre and popularity features",
+        "features": [
+            "movie_id",
+            "title",
+            "release_year",
+            "interaction_count",
+            "average_rating",
+            "release_year_scaled",
+            "interaction_count_scaled",
+            "average_rating_scaled"
+        ]
+    },
+    "interaction_features": {
+        "file": "interaction_features.csv",
+        "description": "User movie interaction and rating features",
+        "features": [
+            "user_id",
+            "movie_id",
+            "rating",
+            "timestamp",
+            "rating_category",
+            "rating_year",
+            "rating_month",
+            "rating_day",
+            "rating_dayofweek"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw MovieLens dataset
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

@@ -1,0 +1,13 @@
+validation_check,dataset,total_records,failed_records,status
+Missing Values,Users,943,0,PASS
+Missing Values,Movies,1682,1686,WARNING
+Missing Values,Ratings,100000,0,PASS
+Duplicate Records,Users,943,0,PASS
+Duplicate Records,Movies,1682,0,PASS
+Duplicate Records,Ratings,100000,0,PASS
+Data Types,Users,943,0,PASS
+Data Types,Movies,1682,0,PASS
+Data Types,Ratings,100000,0,PASS
+Invalid Ratings,Ratings,100000,0,PASS
+Invalid Timestamps,Ratings,100000,0,PASS
+Referential Integrity,Ratings,100000,0,PASS
